@@ -1,4 +1,5 @@
 Gym-management-system
+
 This project is based on a gymnasium management system. A gymnasium (gym) is an indoor facility that allows one to exercise or pursue indoor sports. Culturally, it is now an important and essential haven for self-improvement and therefore, an integral, undeniable part of modern culture.
 It is quite sequential therefore to assume that such an important and unavoidable facet of modern life would require a rigorous and robust system for its day-to-day maintenance and management. This project aims to offer a small glimpse into the functioning of a gym management system, and a representational prototype of a few functions that are a part of currently used gym management systems.
 
